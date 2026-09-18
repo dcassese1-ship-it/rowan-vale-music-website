@@ -387,7 +387,7 @@ a{color:inherit; text-decoration:none;}
 
 /* ===================== JUST RELEASED ===================== */
 .just-released{
-  background:var(--bg-void);
+  background:var(--bg-deep);
   text-align:center;
   padding:clamp(4rem, 8vw, 6rem) clamp(1.5rem, 6vw, 5rem);
 }
